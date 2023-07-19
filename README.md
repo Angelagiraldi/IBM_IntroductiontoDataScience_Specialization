@@ -1,4 +1,4 @@
-# IBM Data Science Professional Certificate
+# IBM Introduction to Data Science Specialization
 
 This repository contains Jupiter notebooks and code exercises I have worked with from the IBM Introduction to Data Science Specialization.
 
